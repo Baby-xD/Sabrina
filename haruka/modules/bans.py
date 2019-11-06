@@ -76,7 +76,7 @@ def ban(bot: Bot, update: Update, args: List[str]) -> str:
             LOGGER.warning(update)
             LOGGER.exception("ERROR banning person %s in chat %s (%s) due to %s", user_id, chat.title, chat.id,
                              excp.message)
-            message.reply_text(tld(chat.id, "Banned!"))
+            message.reply_text(tld(chat.id, "Fucking Banned!!"))
 
     return ""
 
