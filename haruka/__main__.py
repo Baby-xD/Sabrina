@@ -24,13 +24,7 @@ PM_START = """Hello {}, my name is {}!
 
 I'm here to help you manage your groups!!
 
-I'm a group manager bot maintained by my love Priyansh ❤
-
-Want to add me to your group? [Click here!](t.me/ShraddhaK_robot?startgroup=true)
-
-I am engaged to Priyansh ❤
-
-Priyansh is my only love.
+I'm a group manager
 
 Click (Help) button to find out more about how to use me to my full potential."""
 
