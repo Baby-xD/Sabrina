@@ -6,3 +6,4 @@
 
 This Bot Is Made By [@Baby_xD](https://t.me/Baby_xD)
 
+[![Sunny](https://telegra.ph/file/fbd274d71321e5646bfdf.jpg)](https://telegram.dog/SexySunnyLeone_Bot)
