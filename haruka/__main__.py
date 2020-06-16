@@ -28,7 +28,7 @@ I wanna do Bad Thing with [ Play Boy!!](https://t.me/Baby_xD)
 
 Click [Help] Button or /help.. to find out more about how to use me to my full potential."""
 
-
+[lucifer](https://telegra.ph/file/6c8295a27003c2aaa67a3.jpg)]
 
 
 
