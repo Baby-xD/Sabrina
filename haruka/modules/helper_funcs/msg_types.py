@@ -128,5 +128,3 @@ def get_welcome_type(msg: Message):
         data_type = Types.VIDEO
 
     return text, data_type, content, buttons
-
-                
