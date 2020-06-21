@@ -224,7 +224,8 @@ Main commands available:
    {}
    """,
 
-   
+DONATE_STRING = """I'm free for everyone!"""
+
    
 
     "send-group-settings": """Hi there! There are quite a few settings for *{}* - go ahead and pick what
