@@ -224,7 +224,7 @@ Main commands available:
    {}
    """,
 
-DONATE_STRING = """I'm free for everyone!"""
+
 
    
 
