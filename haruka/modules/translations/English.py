@@ -214,15 +214,15 @@ If you enjoying using me and/or would like to help me survive in the wild, hit /
 
     "send-help": """Hey there! My name is *{}*.
 I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of the things I can help you with.
-
-Main commands available:
- × /start : Cool command to check if the bot is alive or not
- × /help : PM's you this message.
- × /help <module name>: PM's you info about that module.
- × /lang : Change bot language.
- × Notes : Have a look at the following commands for an idea which helps you to use the Bot more effectively.
    {}
    """,
+
+
+
+
+
+   
+   
 
 
 
