@@ -144,7 +144,7 @@ def send_start(bot, update):
 
 
     
-    update.effective_message.reply_text(PM_START.format(escape_markdown(first_name), bot.first_name), reply_markup=InlineKeyboardMarkup, disable_web_page_preview=True, parse_mode=ParseMode.MARKDOWN)
+    update.effective_message.reply_text(PM_START.format(escape_markdown(first_name), bot.first_name), disable_web_page_preview=True, parse_mode=ParseMode.MARKDOWN)
 
 
 def control_panel(bot, update):
