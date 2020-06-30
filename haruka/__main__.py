@@ -22,11 +22,11 @@ from haruka.modules.connection import connected
 
 PM_START = """Hello {}, my name is {}!
 
-I'm here to help you manage your groups!!
+I'm here to help you manage your groups!!I wanna do Bad Thing with [ Play Boy!!](https://t.me/Baby_xD)Click [Help] Button or /help.. to find out more about how to use me to my full potential."""
 
-I wanna do Bad Thing with [ Play Boy!!](https://t.me/Baby_xD)
 
-Click [Help] Button or /help.. to find out more about how to use me to my full potential."""
+
+
 
 
 
