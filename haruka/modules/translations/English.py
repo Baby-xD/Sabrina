@@ -217,7 +217,7 @@ I'm a modular group management bot with a few fun extras! Have a look at the fol
    {}
    """,
 
-LYNDA_IMG = "https://telegra.ph/file/bdb870e426511009df52d.jpg"
+
 
 
 
