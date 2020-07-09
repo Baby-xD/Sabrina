@@ -20,11 +20,11 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "686021814"
+      "value": "783435461"
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": "TheDarkW3b"
+      "value": "Baby_xD"
     },
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode messages",
@@ -40,15 +40,15 @@
     },
     "SUDO_USERS": {
       "description": "A space separated list of user_ids which should be considered sudo users",
-      "value": "686021814"
+      "value": "783435461"
     },
     "SUPPORT_USERS": {
       "description": "A space separated list of user_ids which should be considered support users (can gban/ungban, nothing else)",
-      "value": "686021814"
+      "value": "783435461"
     },
     "WHITELIST_USERS": {
       "description": "A space separated list of user_ids which should be considered whitelisted - they can't be banned.",
-      "value": "686021814"
+      "value": "783435461"
     },
     "PORT": {
       "description": "Port to use for your webhooks",
@@ -68,7 +68,7 @@
     },
     "BAN_STICKER": {
       "description": "Which sticker to use when banning people. Use https://telegram.dog/ShowJsonBot to get the file_id",
-      "value": "CAADBQADfgADttzjKJWTC3CM9l78FgQ"
+      "value": "CAACAgUAAxkBAAEFBYFe3NFmyunc_wdjRen6GorwNdXWvwACCAEAAsVGsi51A3s9Dxqy5hoE"
     }
   },
   "addons": [
