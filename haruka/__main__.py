@@ -21,7 +21,7 @@ from haruka.modules.translations.strings import tld, tld_help
 from haruka.modules.connection import connected
 
 PM_START = """Hello {}, my name is {}!
-I'm here to help you manage your groups!! i wanna do Bad Thing with [ Play Boy !!](https://t.me/Baby_xD) Want to add me to your group? [ Click Here !](http://t.me/SexySunnyLeone_Bot?startgroup=true) And Click /help ! to find out more about how to use me to my full potential."""
+I'm here to help you manage your groups!! i wanna do Bad Thing I Loved in [ Fucking your wife ](https://t.me/Baby_xD) Want to add me to your group? [ Click Here !](http://t.me/SexySunnyLeone_Bot?startgroup=true) And Click /help ! to find out more about how to use me to my full potential."""
 
 
 
