@@ -217,6 +217,14 @@ def abuse(bot: Bot, update: Update):
     reply_text(random.choice(ABUSE_STRINGS))
 	
 @run_async
+def ping(bot: Bot, update: Update):
+    start_time = time.time()
+    requests.get('https://api.telegram.org')
+    end_time = time.time()
+    ping_time = float(end_time - start_time)*1000
+    update.effective_message.reply_text("  🏓Pong! \n⏰Reply Took : {}ms".format(ping_time))
+	
+@run_async
 def bluetext(bot: Bot, update: Update):
     # reply to correct message
     reply_text = update.effective_message.reply_to_message.reply_text if update.effective_message.reply_to_message else update.effective_message.reply_text
